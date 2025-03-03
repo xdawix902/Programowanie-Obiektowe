@@ -1,4 +1,14 @@
 ﻿namespace Project;
+
+struct Para{
+    public const int xy = 0;
+    public int x;
+    public int y;
+    public Para(int xVal, int yVal){
+        x = xVal;
+        y = yVal;
+    }
+}
 class Pracownik{
     private string imie;
     private string nazwisko;
