@@ -1,0 +1,14 @@
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_7\0702 Enumeracja\bin\Debug\netcoreapp3.1\Enumeracja.exe
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_7\0702 Enumeracja\bin\Debug\netcoreapp3.1\Enumeracja.deps.json
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_7\0702 Enumeracja\bin\Debug\netcoreapp3.1\Enumeracja.runtimeconfig.json
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_7\0702 Enumeracja\bin\Debug\netcoreapp3.1\Enumeracja.runtimeconfig.dev.json
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_7\0702 Enumeracja\bin\Debug\netcoreapp3.1\Enumeracja.dll
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_7\0702 Enumeracja\bin\Debug\netcoreapp3.1\Enumeracja.pdb
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_7\0702 Enumeracja\obj\Debug\netcoreapp3.1\Enumeracja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_7\0702 Enumeracja\obj\Debug\netcoreapp3.1\Enumeracja.AssemblyInfoInputs.cache
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_7\0702 Enumeracja\obj\Debug\netcoreapp3.1\Enumeracja.AssemblyInfo.cs
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_7\0702 Enumeracja\obj\Debug\netcoreapp3.1\Enumeracja.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_7\0702 Enumeracja\obj\Debug\netcoreapp3.1\Enumeracja.sourcelink.json
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_7\0702 Enumeracja\obj\Debug\netcoreapp3.1\Enumeracja.dll
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_7\0702 Enumeracja\obj\Debug\netcoreapp3.1\Enumeracja.pdb
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_7\0702 Enumeracja\obj\Debug\netcoreapp3.1\Enumeracja.genruntimeconfig.cache
