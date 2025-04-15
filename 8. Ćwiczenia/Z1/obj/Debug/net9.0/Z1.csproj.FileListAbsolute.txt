@@ -1,0 +1,15 @@
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\8. Ćwiczenia\Z1\bin\Debug\net9.0\Z1.exe
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\8. Ćwiczenia\Z1\bin\Debug\net9.0\Z1.deps.json
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\8. Ćwiczenia\Z1\bin\Debug\net9.0\Z1.runtimeconfig.json
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\8. Ćwiczenia\Z1\bin\Debug\net9.0\Z1.dll
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\8. Ćwiczenia\Z1\bin\Debug\net9.0\Z1.pdb
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\8. Ćwiczenia\Z1\obj\Debug\net9.0\Z1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\8. Ćwiczenia\Z1\obj\Debug\net9.0\Z1.AssemblyInfoInputs.cache
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\8. Ćwiczenia\Z1\obj\Debug\net9.0\Z1.AssemblyInfo.cs
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\8. Ćwiczenia\Z1\obj\Debug\net9.0\Z1.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\8. Ćwiczenia\Z1\obj\Debug\net9.0\Z1.sourcelink.json
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\8. Ćwiczenia\Z1\obj\Debug\net9.0\Z1.dll
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\8. Ćwiczenia\Z1\obj\Debug\net9.0\refint\Z1.dll
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\8. Ćwiczenia\Z1\obj\Debug\net9.0\Z1.pdb
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\8. Ćwiczenia\Z1\obj\Debug\net9.0\Z1.genruntimeconfig.cache
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\8. Ćwiczenia\Z1\obj\Debug\net9.0\ref\Z1.dll
