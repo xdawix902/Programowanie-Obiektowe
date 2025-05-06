@@ -1,0 +1,15 @@
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 04 AtrybutAttributeUsage\bin\Debug\net8.0\AtrybutAttributeUsage.exe
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 04 AtrybutAttributeUsage\bin\Debug\net8.0\AtrybutAttributeUsage.deps.json
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 04 AtrybutAttributeUsage\bin\Debug\net8.0\AtrybutAttributeUsage.runtimeconfig.json
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 04 AtrybutAttributeUsage\bin\Debug\net8.0\AtrybutAttributeUsage.dll
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 04 AtrybutAttributeUsage\bin\Debug\net8.0\AtrybutAttributeUsage.pdb
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 04 AtrybutAttributeUsage\obj\Debug\net8.0\AtrybutAttributeUsage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 04 AtrybutAttributeUsage\obj\Debug\net8.0\AtrybutAttributeUsage.AssemblyInfoInputs.cache
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 04 AtrybutAttributeUsage\obj\Debug\net8.0\AtrybutAttributeUsage.AssemblyInfo.cs
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 04 AtrybutAttributeUsage\obj\Debug\net8.0\AtrybutAttributeUsage.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 04 AtrybutAttributeUsage\obj\Debug\net8.0\AtrybutAttributeUsage.sourcelink.json
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 04 AtrybutAttributeUsage\obj\Debug\net8.0\AtrybutAttributeUsage.dll
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 04 AtrybutAttributeUsage\obj\Debug\net8.0\refint\AtrybutAttributeUsage.dll
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 04 AtrybutAttributeUsage\obj\Debug\net8.0\AtrybutAttributeUsage.pdb
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 04 AtrybutAttributeUsage\obj\Debug\net8.0\AtrybutAttributeUsage.genruntimeconfig.cache
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 04 AtrybutAttributeUsage\obj\Debug\net8.0\ref\AtrybutAttributeUsage.dll

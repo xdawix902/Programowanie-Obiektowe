@@ -1,0 +1,15 @@
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 03 AtrybutZParametremNazwanym\bin\Debug\net8.0\AtrybutZParametremNazwanym.exe
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 03 AtrybutZParametremNazwanym\bin\Debug\net8.0\AtrybutZParametremNazwanym.deps.json
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 03 AtrybutZParametremNazwanym\bin\Debug\net8.0\AtrybutZParametremNazwanym.runtimeconfig.json
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 03 AtrybutZParametremNazwanym\bin\Debug\net8.0\AtrybutZParametremNazwanym.dll
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 03 AtrybutZParametremNazwanym\bin\Debug\net8.0\AtrybutZParametremNazwanym.pdb
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 03 AtrybutZParametremNazwanym\obj\Debug\net8.0\AtrybutZParametremNazwanym.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 03 AtrybutZParametremNazwanym\obj\Debug\net8.0\AtrybutZParametremNazwanym.AssemblyInfoInputs.cache
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 03 AtrybutZParametremNazwanym\obj\Debug\net8.0\AtrybutZParametremNazwanym.AssemblyInfo.cs
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 03 AtrybutZParametremNazwanym\obj\Debug\net8.0\AtrybutZParametremNazwanym.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 03 AtrybutZParametremNazwanym\obj\Debug\net8.0\AtrybutZParametremNazwanym.sourcelink.json
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 03 AtrybutZParametremNazwanym\obj\Debug\net8.0\AtrybutZParametremNazwanym.dll
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 03 AtrybutZParametremNazwanym\obj\Debug\net8.0\refint\AtrybutZParametremNazwanym.dll
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 03 AtrybutZParametremNazwanym\obj\Debug\net8.0\AtrybutZParametremNazwanym.pdb
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 03 AtrybutZParametremNazwanym\obj\Debug\net8.0\AtrybutZParametremNazwanym.genruntimeconfig.cache
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 03 AtrybutZParametremNazwanym\obj\Debug\net8.0\ref\AtrybutZParametremNazwanym.dll
