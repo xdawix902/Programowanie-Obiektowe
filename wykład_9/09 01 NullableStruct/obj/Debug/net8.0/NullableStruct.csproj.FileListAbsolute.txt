@@ -1,0 +1,15 @@
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_9\09 01 NullableStruct\bin\Debug\net8.0\NullableStruct.exe
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_9\09 01 NullableStruct\bin\Debug\net8.0\NullableStruct.deps.json
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_9\09 01 NullableStruct\bin\Debug\net8.0\NullableStruct.runtimeconfig.json
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_9\09 01 NullableStruct\bin\Debug\net8.0\NullableStruct.dll
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_9\09 01 NullableStruct\bin\Debug\net8.0\NullableStruct.pdb
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_9\09 01 NullableStruct\obj\Debug\net8.0\NullableStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_9\09 01 NullableStruct\obj\Debug\net8.0\NullableStruct.AssemblyInfoInputs.cache
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_9\09 01 NullableStruct\obj\Debug\net8.0\NullableStruct.AssemblyInfo.cs
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_9\09 01 NullableStruct\obj\Debug\net8.0\NullableStruct.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_9\09 01 NullableStruct\obj\Debug\net8.0\NullableStruct.sourcelink.json
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_9\09 01 NullableStruct\obj\Debug\net8.0\NullableStruct.dll
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_9\09 01 NullableStruct\obj\Debug\net8.0\refint\NullableStruct.dll
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_9\09 01 NullableStruct\obj\Debug\net8.0\NullableStruct.pdb
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_9\09 01 NullableStruct\obj\Debug\net8.0\NullableStruct.genruntimeconfig.cache
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_9\09 01 NullableStruct\obj\Debug\net8.0\ref\NullableStruct.dll

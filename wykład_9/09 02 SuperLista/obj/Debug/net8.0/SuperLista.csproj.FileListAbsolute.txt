@@ -1,0 +1,15 @@
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_9\09 02 SuperLista\bin\Debug\net8.0\SuperLista.exe
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_9\09 02 SuperLista\bin\Debug\net8.0\SuperLista.deps.json
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_9\09 02 SuperLista\bin\Debug\net8.0\SuperLista.runtimeconfig.json
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_9\09 02 SuperLista\bin\Debug\net8.0\SuperLista.dll
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_9\09 02 SuperLista\bin\Debug\net8.0\SuperLista.pdb
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_9\09 02 SuperLista\obj\Debug\net8.0\SuperLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_9\09 02 SuperLista\obj\Debug\net8.0\SuperLista.AssemblyInfoInputs.cache
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_9\09 02 SuperLista\obj\Debug\net8.0\SuperLista.AssemblyInfo.cs
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_9\09 02 SuperLista\obj\Debug\net8.0\SuperLista.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_9\09 02 SuperLista\obj\Debug\net8.0\SuperLista.sourcelink.json
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_9\09 02 SuperLista\obj\Debug\net8.0\SuperLista.dll
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_9\09 02 SuperLista\obj\Debug\net8.0\refint\SuperLista.dll
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_9\09 02 SuperLista\obj\Debug\net8.0\SuperLista.pdb
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_9\09 02 SuperLista\obj\Debug\net8.0\SuperLista.genruntimeconfig.cache
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_9\09 02 SuperLista\obj\Debug\net8.0\ref\SuperLista.dll
