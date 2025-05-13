@@ -1,0 +1,15 @@
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 01 DirectoryInfo\bin\Debug\net8.0\DirectoryInfo.exe
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 01 DirectoryInfo\bin\Debug\net8.0\DirectoryInfo.deps.json
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 01 DirectoryInfo\bin\Debug\net8.0\DirectoryInfo.runtimeconfig.json
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 01 DirectoryInfo\bin\Debug\net8.0\DirectoryInfo.dll
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 01 DirectoryInfo\bin\Debug\net8.0\DirectoryInfo.pdb
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 01 DirectoryInfo\obj\Debug\net8.0\DirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 01 DirectoryInfo\obj\Debug\net8.0\DirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 01 DirectoryInfo\obj\Debug\net8.0\DirectoryInfo.AssemblyInfo.cs
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 01 DirectoryInfo\obj\Debug\net8.0\DirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 01 DirectoryInfo\obj\Debug\net8.0\DirectoryInfo.sourcelink.json
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 01 DirectoryInfo\obj\Debug\net8.0\DirectoryInfo.dll
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 01 DirectoryInfo\obj\Debug\net8.0\refint\DirectoryInfo.dll
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 01 DirectoryInfo\obj\Debug\net8.0\DirectoryInfo.pdb
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 01 DirectoryInfo\obj\Debug\net8.0\DirectoryInfo.genruntimeconfig.cache
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 01 DirectoryInfo\obj\Debug\net8.0\ref\DirectoryInfo.dll

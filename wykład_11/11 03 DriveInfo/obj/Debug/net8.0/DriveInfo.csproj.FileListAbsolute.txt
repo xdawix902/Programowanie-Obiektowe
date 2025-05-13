@@ -1,0 +1,15 @@
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 03 DriveInfo\bin\Debug\net8.0\DriveInfo.exe
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 03 DriveInfo\bin\Debug\net8.0\DriveInfo.deps.json
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 03 DriveInfo\bin\Debug\net8.0\DriveInfo.runtimeconfig.json
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 03 DriveInfo\bin\Debug\net8.0\DriveInfo.dll
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 03 DriveInfo\bin\Debug\net8.0\DriveInfo.pdb
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 03 DriveInfo\obj\Debug\net8.0\DriveInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 03 DriveInfo\obj\Debug\net8.0\DriveInfo.AssemblyInfoInputs.cache
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 03 DriveInfo\obj\Debug\net8.0\DriveInfo.AssemblyInfo.cs
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 03 DriveInfo\obj\Debug\net8.0\DriveInfo.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 03 DriveInfo\obj\Debug\net8.0\DriveInfo.sourcelink.json
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 03 DriveInfo\obj\Debug\net8.0\DriveInfo.dll
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 03 DriveInfo\obj\Debug\net8.0\refint\DriveInfo.dll
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 03 DriveInfo\obj\Debug\net8.0\DriveInfo.pdb
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 03 DriveInfo\obj\Debug\net8.0\DriveInfo.genruntimeconfig.cache
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 03 DriveInfo\obj\Debug\net8.0\ref\DriveInfo.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Powitanie")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89d9f8306929c0407cc6e57b97ecc90bb4b84ba4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a5aeaaa80c52a8ea16d0cc94bcd721bafbda338")]
 [assembly: System.Reflection.AssemblyProductAttribute("Powitanie")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Powitanie")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

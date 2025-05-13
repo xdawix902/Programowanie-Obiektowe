@@ -1,0 +1,15 @@
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 05 Refleksja2\bin\Debug\net8.0\Refleksja2.exe
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 05 Refleksja2\bin\Debug\net8.0\Refleksja2.deps.json
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 05 Refleksja2\bin\Debug\net8.0\Refleksja2.runtimeconfig.json
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 05 Refleksja2\bin\Debug\net8.0\Refleksja2.dll
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 05 Refleksja2\bin\Debug\net8.0\Refleksja2.pdb
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 05 Refleksja2\obj\Debug\net8.0\Refleksja2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 05 Refleksja2\obj\Debug\net8.0\Refleksja2.AssemblyInfoInputs.cache
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 05 Refleksja2\obj\Debug\net8.0\Refleksja2.AssemblyInfo.cs
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 05 Refleksja2\obj\Debug\net8.0\Refleksja2.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 05 Refleksja2\obj\Debug\net8.0\Refleksja2.sourcelink.json
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 05 Refleksja2\obj\Debug\net8.0\Refleksja2.dll
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 05 Refleksja2\obj\Debug\net8.0\refint\Refleksja2.dll
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 05 Refleksja2\obj\Debug\net8.0\Refleksja2.pdb
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 05 Refleksja2\obj\Debug\net8.0\Refleksja2.genruntimeconfig.cache
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_11\11 05 Refleksja2\obj\Debug\net8.0\ref\Refleksja2.dll
