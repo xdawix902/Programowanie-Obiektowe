@@ -1,0 +1,22 @@
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\L12\Z1\bin\Debug\net8.0\Z1.deps.json
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\L12\Z1\bin\Debug\net8.0\Z1.dll
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\L12\Z1\bin\Debug\net8.0\Z1.pdb
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\L12\Z1\obj\Debug\net8.0\Z1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\L12\Z1\obj\Debug\net8.0\Z1.AssemblyInfoInputs.cache
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\L12\Z1\obj\Debug\net8.0\Z1.AssemblyInfo.cs
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\L12\Z1\obj\Debug\net8.0\Z1.csproj.CoreCompileInputs.cache
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\L12\Z1\obj\Debug\net8.0\Z1.dll
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\L12\Z1\obj\Debug\net8.0\refint\Z1.dll
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\L12\Z1\obj\Debug\net8.0\Z1.pdb
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\L12\Z1\obj\Debug\net8.0\ref\Z1.dll
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\12 02 Testy jednostkowe - Członek zespołu\Z1\bin\Debug\net8.0\Z1.deps.json
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\12 02 Testy jednostkowe - Członek zespołu\Z1\bin\Debug\net8.0\Z1.dll
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\12 02 Testy jednostkowe - Członek zespołu\Z1\bin\Debug\net8.0\Z1.pdb
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\12 02 Testy jednostkowe - Członek zespołu\Z1\obj\Debug\net8.0\Z1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\12 02 Testy jednostkowe - Członek zespołu\Z1\obj\Debug\net8.0\Z1.AssemblyInfoInputs.cache
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\12 02 Testy jednostkowe - Członek zespołu\Z1\obj\Debug\net8.0\Z1.AssemblyInfo.cs
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\12 02 Testy jednostkowe - Członek zespołu\Z1\obj\Debug\net8.0\Z1.csproj.CoreCompileInputs.cache
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\12 02 Testy jednostkowe - Członek zespołu\Z1\obj\Debug\net8.0\Z1.dll
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\12 02 Testy jednostkowe - Członek zespołu\Z1\obj\Debug\net8.0\refint\Z1.dll
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\12 02 Testy jednostkowe - Członek zespołu\Z1\obj\Debug\net8.0\Z1.pdb
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\12 02 Testy jednostkowe - Członek zespołu\Z1\obj\Debug\net8.0\ref\Z1.dll

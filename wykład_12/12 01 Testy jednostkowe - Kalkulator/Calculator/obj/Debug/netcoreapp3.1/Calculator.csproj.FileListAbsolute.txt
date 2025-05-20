@@ -1,0 +1,47 @@
+C:\Users\Karol\Desktop\Calculator-Testy\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\Karol\Desktop\Calculator-Testy\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\Karol\Desktop\Calculator-Testy\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\Karol\Desktop\Calculator-Testy\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.AssemblyReference.cache
+C:\Users\Karol\Desktop\Calculator-Testy\Calculator\obj\Debug\netcoreapp3.1\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karol\Desktop\Calculator-Testy\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\Karol\Desktop\Calculator-Testy\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\Karol\Desktop\Calculator-Testy\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Karol\Desktop\Calculator-Testy\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\Karol\Desktop\Calculator-Testy\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+\\NAS\Archiwum\SGGW-Praca\Inżynieria Oprogramowania\Testy_jednostkowe\Calculator-Testy\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+\\NAS\Archiwum\SGGW-Praca\Inżynieria Oprogramowania\Testy_jednostkowe\Calculator-Testy\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+\\NAS\Archiwum\SGGW-Praca\Inżynieria Oprogramowania\Testy_jednostkowe\Calculator-Testy\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+\\NAS\Archiwum\SGGW-Praca\Inżynieria Oprogramowania\Testy_jednostkowe\Calculator-Testy\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.AssemblyReference.cache
+\\NAS\Archiwum\SGGW-Praca\Inżynieria Oprogramowania\Testy_jednostkowe\Calculator-Testy\Calculator\obj\Debug\netcoreapp3.1\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+\\NAS\Archiwum\SGGW-Praca\Inżynieria Oprogramowania\Testy_jednostkowe\Calculator-Testy\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+\\NAS\Archiwum\SGGW-Praca\Inżynieria Oprogramowania\Testy_jednostkowe\Calculator-Testy\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+\\NAS\Archiwum\SGGW-Praca\Inżynieria Oprogramowania\Testy_jednostkowe\Calculator-Testy\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+\\NAS\Archiwum\SGGW-Praca\Inżynieria Oprogramowania\Testy_jednostkowe\Calculator-Testy\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+\\NAS\Archiwum\SGGW-Praca\Inżynieria Oprogramowania\Testy_jednostkowe\Calculator-Testy\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\Testy jednostkowe - Kalkulator\Calculator-Testy\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\Testy jednostkowe - Kalkulator\Calculator-Testy\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\Testy jednostkowe - Kalkulator\Calculator-Testy\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\Testy jednostkowe - Kalkulator\Calculator-Testy\Calculator\obj\Debug\netcoreapp3.1\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\Testy jednostkowe - Kalkulator\Calculator-Testy\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\Testy jednostkowe - Kalkulator\Calculator-Testy\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\Testy jednostkowe - Kalkulator\Calculator-Testy\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\Testy jednostkowe - Kalkulator\Calculator-Testy\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\Testy jednostkowe - Kalkulator\Calculator-Testy\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\Testy jednostkowe - Kalkulator\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\Testy jednostkowe - Kalkulator\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\Testy jednostkowe - Kalkulator\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\Testy jednostkowe - Kalkulator\Calculator\obj\Debug\netcoreapp3.1\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\Testy jednostkowe - Kalkulator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\Testy jednostkowe - Kalkulator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\Testy jednostkowe - Kalkulator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\Testy jednostkowe - Kalkulator\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\Testy jednostkowe - Kalkulator\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\12 01 Testy jednostkowe - Kalkulator\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\12 01 Testy jednostkowe - Kalkulator\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\12 01 Testy jednostkowe - Kalkulator\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\12 01 Testy jednostkowe - Kalkulator\Calculator\obj\Debug\netcoreapp3.1\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\12 01 Testy jednostkowe - Kalkulator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\12 01 Testy jednostkowe - Kalkulator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\12 01 Testy jednostkowe - Kalkulator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\12 01 Testy jednostkowe - Kalkulator\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\lchmiel\Documents\WORKS\QNP\Visual Studio 2022\Wykłady\12 01 Testy jednostkowe - Kalkulator\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb

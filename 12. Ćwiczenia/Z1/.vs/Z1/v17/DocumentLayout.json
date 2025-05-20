@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe\\12. \u0106wiczenia\\Z1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7ED7592-CDF8-43D3-8447-D3947ACD67C6}|Z1Tests\\Z1Tests.csproj|c:\\users\\dawid\\desktop\\progobiek\\programowanie-obiektowe\\12. \u0107wiczenia\\z1\\z1tests\\cz\u0142onekzespo\u0142utests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7ED7592-CDF8-43D3-8447-D3947ACD67C6}|Z1Tests\\Z1Tests.csproj|solutionrelative:z1tests\\cz\u0142onekzespo\u0142utests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CBC0E1-9115-4A6F-B812-5D1D73309847}|L12\\L12.csproj|c:\\users\\dawid\\desktop\\progobiek\\programowanie-obiektowe\\12. \u0107wiczenia\\z1\\l12\\cz\u0142onekzespo\u0142u.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4CBC0E1-9115-4A6F-B812-5D1D73309847}|L12\\L12.csproj|solutionrelative:l12\\cz\u0142onekzespo\u0142u.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cz\u0142onekZespo\u0142uTests.cs",
+              "DocumentMoniker": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe\\12. \u0106wiczenia\\Z1\\Z1Tests\\Cz\u0142onekZespo\u0142uTests.cs",
+              "RelativeDocumentMoniker": "Z1Tests\\Cz\u0142onekZespo\u0142uTests.cs",
+              "ToolTip": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe\\12. \u0106wiczenia\\Z1\\Z1Tests\\Cz\u0142onekZespo\u0142uTests.cs",
+              "RelativeToolTip": "Z1Tests\\Cz\u0142onekZespo\u0142uTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:31:34.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cz\u0142onekZespo\u0142u.cs",
+              "DocumentMoniker": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe\\12. \u0106wiczenia\\Z1\\L12\\Cz\u0142onekZespo\u0142u.cs",
+              "RelativeDocumentMoniker": "L12\\Cz\u0142onekZespo\u0142u.cs",
+              "ToolTip": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe\\12. \u0106wiczenia\\Z1\\L12\\Cz\u0142onekZespo\u0142u.cs",
+              "RelativeToolTip": "L12\\Cz\u0142onekZespo\u0142u.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBUAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:30:54.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
