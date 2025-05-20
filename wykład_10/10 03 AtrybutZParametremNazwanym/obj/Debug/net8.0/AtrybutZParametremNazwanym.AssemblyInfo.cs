@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AtrybutZParametremNazwanym")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5baa00d28f471ad32dd26cb5bb00933686cee23d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+852699aa6058d3c0bedc471f5e3ceaeabf2fba43")]
 [assembly: System.Reflection.AssemblyProductAttribute("AtrybutZParametremNazwanym")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AtrybutZParametremNazwanym")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

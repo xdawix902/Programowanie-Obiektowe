@@ -1,0 +1,15 @@
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 02 AtrybutDefaultValue\bin\Debug\net8.0\AtrybutDefaultValue.exe
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 02 AtrybutDefaultValue\bin\Debug\net8.0\AtrybutDefaultValue.deps.json
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 02 AtrybutDefaultValue\bin\Debug\net8.0\AtrybutDefaultValue.runtimeconfig.json
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 02 AtrybutDefaultValue\bin\Debug\net8.0\AtrybutDefaultValue.dll
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 02 AtrybutDefaultValue\bin\Debug\net8.0\AtrybutDefaultValue.pdb
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 02 AtrybutDefaultValue\obj\Debug\net8.0\AtrybutDefaultValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 02 AtrybutDefaultValue\obj\Debug\net8.0\AtrybutDefaultValue.AssemblyInfoInputs.cache
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 02 AtrybutDefaultValue\obj\Debug\net8.0\AtrybutDefaultValue.AssemblyInfo.cs
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 02 AtrybutDefaultValue\obj\Debug\net8.0\AtrybutDefaultValue.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 02 AtrybutDefaultValue\obj\Debug\net8.0\AtrybutDefaultValue.sourcelink.json
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 02 AtrybutDefaultValue\obj\Debug\net8.0\AtrybutDefaultValue.dll
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 02 AtrybutDefaultValue\obj\Debug\net8.0\refint\AtrybutDefaultValue.dll
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 02 AtrybutDefaultValue\obj\Debug\net8.0\AtrybutDefaultValue.pdb
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 02 AtrybutDefaultValue\obj\Debug\net8.0\AtrybutDefaultValue.genruntimeconfig.cache
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe\wykład_10\10 02 AtrybutDefaultValue\obj\Debug\net8.0\ref\AtrybutDefaultValue.dll
