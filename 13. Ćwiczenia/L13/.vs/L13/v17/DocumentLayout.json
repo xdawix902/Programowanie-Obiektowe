@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe\\13. \u0106wiczenia\\L13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E2A1A2-EE4B-427F-9074-794AE4281F4B}|Z1\\Z1.csproj|c:\\users\\dawid\\desktop\\progobiek\\programowanie-obiektowe\\13. \u0107wiczenia\\l13\\z1\\normalticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E2A1A2-EE4B-427F-9074-794AE4281F4B}|Z1\\Z1.csproj|solutionrelative:z1\\normalticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E2A1A2-EE4B-427F-9074-794AE4281F4B}|Z1\\Z1.csproj|c:\\users\\dawid\\desktop\\progobiek\\programowanie-obiektowe\\13. \u0107wiczenia\\l13\\z1\\vipticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E2A1A2-EE4B-427F-9074-794AE4281F4B}|Z1\\Z1.csproj|solutionrelative:z1\\vipticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E2A1A2-EE4B-427F-9074-794AE4281F4B}|Z1\\Z1.csproj|c:\\users\\dawid\\desktop\\progobiek\\programowanie-obiektowe\\13. \u0107wiczenia\\l13\\z1\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E2A1A2-EE4B-427F-9074-794AE4281F4B}|Z1\\Z1.csproj|solutionrelative:z1\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBB443B-FCC8-4DC7-B785-699C9366CB90}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\dawid\\desktop\\progobiek\\programowanie-obiektowe\\13. \u0107wiczenia\\l13\\z1.tests\\tickettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBB443B-FCC8-4DC7-B785-699C9366CB90}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\tickettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E2A1A2-EE4B-427F-9074-794AE4281F4B}|Z1\\Z1.csproj|c:\\users\\dawid\\desktop\\progobiek\\programowanie-obiektowe\\13. \u0107wiczenia\\l13\\z1\\ticketseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E2A1A2-EE4B-427F-9074-794AE4281F4B}|Z1\\Z1.csproj|solutionrelative:z1\\ticketseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NormalTicket.cs",
+              "DocumentMoniker": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe\\13. \u0106wiczenia\\L13\\Z1\\NormalTicket.cs",
+              "RelativeDocumentMoniker": "Z1\\NormalTicket.cs",
+              "ToolTip": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe\\13. \u0106wiczenia\\L13\\Z1\\NormalTicket.cs",
+              "RelativeToolTip": "Z1\\NormalTicket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:41:26.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VIPTicket.cs",
+              "DocumentMoniker": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe\\13. \u0106wiczenia\\L13\\Z1\\VIPTicket.cs",
+              "RelativeDocumentMoniker": "Z1\\VIPTicket.cs",
+              "ToolTip": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe\\13. \u0106wiczenia\\L13\\Z1\\VIPTicket.cs",
+              "RelativeToolTip": "Z1\\VIPTicket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:41:23.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TicketSeller.cs",
+              "DocumentMoniker": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe\\13. \u0106wiczenia\\L13\\Z1\\TicketSeller.cs",
+              "RelativeDocumentMoniker": "Z1\\TicketSeller.cs",
+              "ToolTip": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe\\13. \u0106wiczenia\\L13\\Z1\\TicketSeller.cs",
+              "RelativeToolTip": "Z1\\TicketSeller.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:39:55.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe\\13. \u0106wiczenia\\L13\\Z1\\Ticket.cs",
+              "RelativeDocumentMoniker": "Z1\\Ticket.cs",
+              "ToolTip": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe\\13. \u0106wiczenia\\L13\\Z1\\Ticket.cs",
+              "RelativeToolTip": "Z1\\Ticket.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:32:56.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketTests.cs",
+              "DocumentMoniker": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe\\13. \u0106wiczenia\\L13\\Z1.Tests\\TicketTests.cs",
+              "RelativeDocumentMoniker": "Z1.Tests\\TicketTests.cs",
+              "ToolTip": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe\\13. \u0106wiczenia\\L13\\Z1.Tests\\TicketTests.cs",
+              "RelativeToolTip": "Z1.Tests\\TicketTests.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowFUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:32:37.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
